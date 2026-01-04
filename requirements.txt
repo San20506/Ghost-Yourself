@@ -1,0 +1,18 @@
+# Ghost Yourself - Real-Time Object Removal
+# Core dependencies
+
+# YOLOv8 for detection and segmentation
+ultralytics>=8.0.0
+
+# LaMa inpainting
+simple-lama-inpainting>=0.1.0
+
+# Video processing
+opencv-python>=4.8.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Deep learning backend
+torch>=2.0.0
+torchvision>=0.15.0
